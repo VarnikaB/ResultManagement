@@ -1,9 +1,12 @@
 # StudentResultManagement
 ## Synopsis
 Mini Project Title: Student Result Management
+
 Problem Statement: 
+
 The main objective of the project is to provide the examination result of one subject to the students in a simple way. This project is useful for students and institutions for getting the results in simple manner. By a result analyzer with subject status and marks is an application tool for displaying the results in secure way. 
 The system is intended for the student. And the privileges that are provided to student are to read and execute student’s result by providing user name and password for secure login and in case of new student the registration is available. And the guest user has the privilege only to read.
+
 Concept:
 1.	Create a design of tables that will be used to maintain records of student and their result.
 2.	Create an interactive, convenient and a manageable UI using HTML, CSS and JS
